@@ -1,7 +1,7 @@
 # Build a site e-commerce hardware
 
 ## First step : 
-#### Build the wireframe of this project :
+#### Build the wireframe of this project
 
 
 ## Second step :
