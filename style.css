@@ -28,6 +28,34 @@ ul li {
         text-decoration: none;
         color: white;
     }
+    .user {
+        margin-bottom: 5%;
+        margin-top: 5%;
+        font-size: 1.2rem;
+    }
+    .profile {
+        margin-left: 4%;
+    }
+    .user img {
+        vertical-align: middle;
+    }
+    .cart {
+        margin-left: 10%;
+        width: 32px;
+    }
+
+    .search input {
+        border: none;
+        box-shadow: 1px 1px 1px 1px #E2E3D9;
+        width: 80%;
+        height: 30px;
+        font-size: 1.3rem;
+        font-weight: bold;
+        background-image: url("pictures/search.png");
+        background-repeat: no-repeat;
+        background-position: 97%;
+    }
+
     /* This property, select div on the top web page "Offer of day" */
     .offers-middle {
         border: 1px solid black;
