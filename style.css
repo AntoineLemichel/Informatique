@@ -13,18 +13,29 @@ ul li {
         width: 99%;
         text-align: center;
     }
+
+    /* This style, editing menu navigation */
     nav{
         text-align: center;
     }
+    ul li {
+        vertical-align: middle;
+        display: inline;
+        padding-left: 30px;
+    }
     .home-button{
-        background-color: red;
-        /* padding: 15px; */
+        background-color: #59554E;
+        border-radius: 5px 5px 0px 0px;
+        box-shadow: 2px 2px 2px 2px #59554E;
+        padding: 7px;
         text-decoration: none;
         color: white;
     }
     .contact-button{
-        background-color: red;
-        /* padding: 15px; */
+        background-color: #59554E;
+        border-radius: 5px 5px 0px 0px;
+        box-shadow: 2px 2px 2px 2px #59554E;
+        padding: 7px;
         text-decoration: none;
         color: white;
     }
@@ -67,7 +78,7 @@ ul li {
     }
     .offers-middle h3 {
         color: #59554E;
-        border-bottom: 1px solid black;
+        border-bottom: 1px solid #59554E;
         margin-bottom: 5%;
         padding-left: 2%;
         text-align: left;
