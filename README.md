@@ -14,7 +14,7 @@
 * A site e-commerce hardware with three pages.
     * A page home with three product
     * A page presentation of product.
-    * A page contact with phone number and form contact.
+    * A page contact with phone number and contact form.
 
 
 ## Instruction :
